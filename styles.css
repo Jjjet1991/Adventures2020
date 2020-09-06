@@ -1,0 +1,76 @@
+body{
+  background-color: #e3fdfd;
+}
+
+h1 {
+  color: #ff9999;
+  font-size:50px;
+}
+
+p {
+  color:#6c5b7b;
+  font-size:21px;
+  }
+
+h2{
+  color:#ff9999;
+  font-size:30px
+}
+
+li{
+  font-size:19px;
+}
+
+h3{
+  color:#ff9999;
+  font-size:26px;
+}
+
+h6{
+  color:#35477d;
+  font-size:12px;
+  opacity: .65;
+}
+
+
+/*---- Class Selectors------*/
+
+.quote {
+  color: #8785a2;
+  font-size:28px;
+  opacity: .75;
+}
+
+.mainline {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 9px;
+  color:#ffc7c7;
+  opacity:.85;
+  width:62%;
+}
+
+.mainseperationline{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  color:#ffc7c7;
+  opacity:.75;
+}
+.quoteline{
+  border-style: none;
+  border-top-style: solid;
+  border-width: 3px;
+  color:#8785a2;
+  width:30%;
+
+}
+/*-----Weekly Selectors---*/
+.weektitle{
+  color:#8785a2;
+  font-size:32px;
+}
+.vocab{
+  color:#8785a2;
+  font-size:19px;
+}
